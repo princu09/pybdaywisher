@@ -1,14 +1,5 @@
-### I Love <span style="color:red">❤</span> the Code. Because Code Code Never Lies , Comments Something do.
+### Python BirthDay Wisher
 
-<img align ="right" src = "https://princu09.github.io/nfwebbuilder/img/logo.png" width="150" height="150">
-
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=princu09&color=orange alt=Princu09/></p>
-
-
-##### Hi ! 👋 I am Prince Patel.<br>Python , PHP , Flutter , Web Developer , Web Designer , WordPress Developer who loves to explore new Code and Idea it to solve real-life problems.<br /><br>
-
-##### 👨‍💻Let's Learn and grow<br />
-##### ⚡ Fun fact: I have a secret collection of Ethical Hacking Tools and Code. <br />
 ##### 📫 Connect with me here:<br />
  <br />
  <p>
